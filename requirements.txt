@@ -1,0 +1,14 @@
+# Core data processing
+pandas>=2.1
+openpyxl>=3.1
+
+# HTTP calls to judge model (OpenAI-compatible API)
+requests>=2.31
+
+# Volcengine Ark (Doubao) SDK (provides `volcenginesdkarkruntime`)
+volcengine-python-sdk>=4.0.44
+
+# Result visualization
+matplotlib>=3.8
+seaborn>=0.13
+
